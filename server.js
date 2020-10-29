@@ -1,9 +1,3 @@
-// server.js
-// where your node app starts
-
-// we've started you off with Express (https://expressjs.com/)
-// but feel free to use whatever libraries or frameworks you'd like through `package.json`.
-
 var bGround = require('fcc-express-bground');
 var myApp = require('./app');
 var express = require('express');
